@@ -3,7 +3,7 @@
  * RA: 00500155258
  */
 
-package exercicio1;
+package Exercicio1;
 
 public class ExercicioTabuaba {
 
